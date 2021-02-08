@@ -1,0 +1,26 @@
+Instruções para execuçao do programa:
+
+O programa desenvolvido permite que o usuario insira um valor na maquina de bebidas, com o principal intuito de realizar a compra de bebidas na maquina.
+
+1-Para realizar a inserção de valores, o usuario deve colocar um valor na caixa de texto localizada na parte superior esquerda do codigo e logo em seguida apertar no
+botão : "inserir".Após realizar a inserção do dinheiro, a caixa de texto localizada na aba direita superior do programa ficará responsavel por demonstrar quanto dinheiro o usuario
+pode gastar na compra de bebidas.
+
+2-Para relizar a compra de bebidas, primeiramente o usuario deve colocar o codigo da bebida na caixa de texto acima do botão : "Comprar". Cada bebida possui um codigo
+que está localizado ao lado da imagem de cada bebida.Após digitar o codigo, o usuario deverá digitar ao lado direito a quantidade daquela determinada bebida que o mesmo digitou o codigo.
+Realizando a inserção desses dados o programa irá calcular o valor daquela determinada bebida juntamente com a quantidade e descontar do dinheiro que o usuario informou. 
+
+3-O usuario possui a liberdade de inserir mais dinheiro quando bem entender. Além do mais, ao realizar uma compra a quantidade de bebidas disponivel no estoque diminuirá, pela 
+quantidade comprada pelo usuario. 
+
+4-Caso deseje realizar a consulta dos produtos disponiveis no estoque, o usuario deve clicar no botão Estoque, localizado ao lado esquerdo inferior da tela.Após realizar esta ação,
+o programa abrirá uma janela demonstrando o estoque de cada bebida disponivel para compra.
+
+5-Se uma bebida não tiver o estoque disponivel, então não será possivel realizar a compra desta determinada bebida, caso o usuario tente, uma nova janela será aberta informando a
+falta de estoque do produto.
+
+6-Abaixo de cada bebida ficará uma aba de texto, informando a quantidade de vezes que o usuario comprou determinada bebida.
+
+7-Caso haja tentativa de realizar a compra de determinada bebida com o saldo de dinheiro insuficiente, o programa executará uma noja janela dizendo o valor que o usuario 
+necessita inserir para realizar a compra desta bebida.
+

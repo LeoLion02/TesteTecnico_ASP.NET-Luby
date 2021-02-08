@@ -1,0 +1,30 @@
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\Poo\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\Nova pasta\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Workspace\Teste Tecnico\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
